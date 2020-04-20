@@ -24,4 +24,4 @@ their graph, so there is no way to compare results. However, my results can be c
 the lack of an onlooker bee stage, the performance of my implementation is quite similar to the experimental results shown in the homework
 3 paper.
 
-A blank file named "__init__.py" must be created within the code directory for my code to run.
+A blank file named "\_\_init\_\_.py" must be created within the code directory for my code to run.
