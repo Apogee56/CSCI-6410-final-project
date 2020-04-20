@@ -16,10 +16,12 @@ The program will, upon completion, list off a collection of spanning trees which
 in the form of a tuple containing their weight and the binary encoding representing the edges used from the original graph.
 
 My algorithm differs from the one described in my base paper in that they provided no details at all on the onlooker bee stage,
-and so I elected to not include such a stage in this implementation of the algorithm.
+and so I elected to not include such a stage in this implementation of the algorithm. The base paper upon which this algorithm is based is included in the repository.
 
 I have included the files graph.txt and papgraph.txt. graph.txt is a file containing my very own small graph. papgraph.txt is from the
 paper I covered in homework 3 on a similar algorithm. Indeed, the authors of my current base paper did not include the edge weights of 
 their graph, so there is no way to compare results. However, my results can be compared to those in the paper from homework 3. Despite
 the lack of an onlooker bee stage, the performance of my implementation is quite similar to the experimental results shown in the homework
 3 paper.
+
+A blank file named "__init__.py" must be created within the code directory for my code to run.
